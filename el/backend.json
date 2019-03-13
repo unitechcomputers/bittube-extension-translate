@@ -1,6 +1,6 @@
 {
  "notifications":{
-  "transactionSuccessfull":"Transaction Successfull",
+  "transactionSuccessfull":"Επιτυχής συναλλαγή",
   "hello": "Hello",
   "youHaveReceivedTransaction": "you have received a transaction of",
   "tubePurchase.": "TUBE from your purchase.",
